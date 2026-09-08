@@ -243,7 +243,4 @@ before deployment. This classifier recognizes self-reported context; it is not a
 diagnosis.
 
 
-## AI Use Acknowledgment
-
-We used ChatGPT (OpenAI) as a supporting tool during this project. It was used to provide suggestions for data analysis and visualization, assist with debugging and improving Python code, and help revise the clarity and organization of written explanations. All AI-generated suggestions and code were reviewed, tested, and modified by the authors before being included in the final project. The authors remain responsible for the analysis, results, interpretations, and final submitted work.
 
