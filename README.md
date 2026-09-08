@@ -1,5 +1,7 @@
 **By Pingzhang Xu and Chenyu Yi and**
 
+https://xpzxxx.github.io/privacy-safe-sleep-detection/
+
 Can an everyday phone and watch recognize sleep without listening to audio or tracking absolute
 location? Using UCSD's ExtraSensory dataset, we investigated how passive motion changes during
 reported sleep and built a privacy-conscious classifier evaluated on completely unseen people.
